@@ -36,5 +36,9 @@ Key Features:
   <li><strong>Feature 3:</strong>          </li>
 </ul>
 
-🔗 Live Demo: [Link]
-📁 Repository: [Link]
+<div>
+  🔗 Live Demo: [Link]
+</div>
+<div>
+  📁 Repository: [Link]
+</div>
