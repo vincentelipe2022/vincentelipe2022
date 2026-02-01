@@ -1,19 +1,13 @@
-👋 Hi, I'm Vincent
-
-Frontend & Backend Web Developer
+<h1>👋 Hi, I'm Vincent </h1>
+<h1><strong>Frontend & Backend Web Developer</strong></h1>
 Building modern, responsive, and performance-focused web applications.
 
-🚀 About Me
+<p>I’m a web developer with nearly 5+ years of experience working across both frontend and backend development. I focus on building clean UI, scalable architecture, and user-centered digital experiences.</p>
 
-I’m a web developer with nearly 4 years of experience working across both frontend and backend development. I focus on building clean UI, scalable architecture, and user-centered digital experiences.
-
-💻 Tech-focused problem solver
-
-🎨 Strong eye for modern design
-
-⚙️ Experience with real-world production environments
-
-🔒 Currently working in a hospital environment (privacy-restricted projects)
+<strong>These days I am focused on:</strong>
+<ul>
+  <li>Readt</li>
+</ul>
 
 🛠 Tech Stack
 Frontend
