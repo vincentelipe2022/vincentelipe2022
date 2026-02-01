@@ -25,7 +25,7 @@
 
 (Some professional work cannot be shared publicly due to privacy restrictions. The projects below demonstrate my technical capability.)
 
-🔹 Project Name: react and vite template
+🔹 Project Name: Todo List: React and Vite 
 
 Description: N/A
 Key Features:
