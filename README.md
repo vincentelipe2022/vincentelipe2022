@@ -25,17 +25,16 @@
 
 (Some professional work cannot be shared publicly due to privacy restrictions. The projects below demonstrate my technical capability.)
 
-🔹 Project Name
+🔹 Project Name: react and vite template
 
-Description: Brief explanation of what the project does and the problem it solves.
-Tech Used: React, API, CSS
+Description: N/A
 Key Features:
 
-Feature 1
-
-Feature 2
-
-Feature 3
+<ul>
+  <li><strong>Feature 1:</strong>          </li>
+  <li><strong>Feature 2:</strong>          </li>
+  <li><strong>Feature 3:</strong>          </li>
+</ul>
 
 🔗 Live Demo: [Link]
 📁 Repository: [Link]
