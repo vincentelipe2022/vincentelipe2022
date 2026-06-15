@@ -31,9 +31,7 @@ Description: N/A
 Key Features:
 
 <ul>
-  <li><strong>Feature 1:</strong>          </li>
-  <li><strong>Feature 2:</strong>          </li>
-  <li><strong>Feature 3:</strong>          </li>
+  <li><strong>Feature 1: Added and Delete List:</strong> Ability to add and remove data without need of refeshing the site          </li>
 </ul>
 
 <div>
